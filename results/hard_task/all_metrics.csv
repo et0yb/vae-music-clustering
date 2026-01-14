@@ -1,0 +1,5 @@
+method,silhouette_score,calinski_harabasz_index,davies_bouldin_index,adjusted_rand_index,normalized_mutual_info,purity
+K-Means,0.092,28.45,2.15,0.085,0.162,0.348
+GMM,0.085,25.32,2.28,0.078,0.155,0.335
+Agglomerative,0.095,23.18,2.35,0.068,0.158,0.342
+Spectral,-0.008,19.75,2.65,0.052,0.125,0.315
